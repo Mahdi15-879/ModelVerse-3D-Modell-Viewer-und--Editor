@@ -1,6 +1,6 @@
 # ModelVerse – 3D Model Viewer and Editor
 
-ModelVerse is a web-based 3D model viewer and editor built with Next.js, TypeScript, React, and Babylon.js.  
+ModelVerse is a web-based 3D model viewer and editor built with TypeScript, React, and Babylon.js.  
 The application allows users to import 3D models, inspect their meshes, select individual mesh objects, customize mesh colors in real time, add optional mesh event handlers, and export the edited model as a GLB file.
 
 ## Overview
